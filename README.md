@@ -43,10 +43,17 @@ servers.
 [![My Skills](https://skills.thijs.gg/icons?i=sass,html,css,ts&theme=dark)](https://skills.thijs.gg)
 </br>
 
-![Profile views](https://gpvc.arturio.dev/liad7)</br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=liad7&show_icons=true) </br>
-![GitHub metrics](https://metrics.lecoq.io/liad7)  
+### ⚙️ &nbsp;GitHub Analytics
 
+![Profile views](https://gpvc.arturio.dev/liad7)</br>
+
+<p align="center">
+<a href="https://github.com/avivbens"  style="display: flex; flex-direction: column;">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avivbens&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="margin-bottom: 20px"/>
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avivbens&layout=compact&langs_count=8&theme=algolia" style="margin-bottom: 20px"/>
+</a>
+</p>
 
 [course]: https://www.youtube.com/watch?v=mjYh6hlXmZk&t=293s&ab_channel=TutorialHero
 [linkedin]: [https://www.linkedin.com/in/liad-gola-314254265/](http://bit.ly/3IAykwO)
