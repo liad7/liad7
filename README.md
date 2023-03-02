@@ -43,12 +43,6 @@ servers.
 [![My Skills](https://skills.thijs.gg/icons?i=sass,html,css,ts&theme=dark)](https://skills.thijs.gg)
 </br>
 
-# INTERESTS
-- In my free time, I enjoy coding personal projects and staying up-to-date with new technologies in the coding community. 
-- I also like to keep active by running, climbing, djing, skydiving, kitesurfing , and playing ping-pong. 
-- And yes, I'm always up for a game of ping-pong. It's like my coffee, but with a side of competition.
-
-
 ![Profile views](https://gpvc.arturio.dev/liad7)</br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=liad7&show_icons=true) </br>
 ![GitHub metrics](https://metrics.lecoq.io/liad7)  
