@@ -1,4 +1,4 @@
-# Hi there, I am Liad Gola -  [Linkedin][linkedin] 👋 
+# Hi there, I am Liad Gola 👋 
 #### Full Stack Developer
 # Connect with me:
 
