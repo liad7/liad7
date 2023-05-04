@@ -48,10 +48,10 @@ servers.
 ![Profile views](https://gpvc.arturio.dev/liad7)</br>
 
 <p align="center">
-<a href="https://github.com/avivbens"  style="display: flex; flex-direction: column;">
+<a href="https://github.com/liad7"  style="display: flex; flex-direction: column;">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avivbens&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="margin-bottom: 20px"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avivbens&layout=compact&langs_count=8&theme=algolia" style="margin-bottom: 20px"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=liad7&layout=compact&langs_count=8&theme=algolia" style="margin-bottom: 20px"/>
 </a>
 </p>
 
